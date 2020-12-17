@@ -13,7 +13,7 @@
   
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=613596&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ssbhattarai&show_icons=true&count_private=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="241"></a>
 </p>
 <br/>
