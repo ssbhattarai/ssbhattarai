@@ -7,7 +7,7 @@
 </p>
 <p align='center'>
  
-  <a href="https://www.linkedin.com/in/da-shyam-sundar-501895171/">
+  <a href="https://www.linkedin.com/in/shyam-sundar-bhattarai-501895171/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
